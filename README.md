@@ -36,7 +36,6 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
 <p align="center">
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/git-header.svg" />
 </p>
