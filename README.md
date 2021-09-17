@@ -83,7 +83,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0xdevsachin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevsachin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
     </p>
     
-<!-- <p align="center">
-  <img alt="ViewCount" src="https://visitor-badge.glitch.me/badge?page_id=0xdevsachin.visitor-badge.issue.1" />
-</p> -->
+<p align="center">
+  <a href="https://github.com/0xdevsachin">
+    <img src="https://komarev.com/ghpvc/?username=0xdevsachin" alt="page views" />
+  </a>
+</p>
 
