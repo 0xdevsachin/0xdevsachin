@@ -28,7 +28,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/0xsachin/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/0xsachin)](https://www.hackerrank.com/0xsachin)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachinverma00011@gmail.com)
-[![PortFolio](https://img.shields.io/badge/-Portfolio-c14438?style=flat&logoColor=white)](https://sachin-verma.herokuapp.com)
 
 &nbsp;
 
