@@ -38,12 +38,12 @@ You can use the website to generate badges: https://shields.io/
 <img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/git-header.svg" />
 </p>
 
-- 👨🏽‍💻 I’m currently working on MERN Stack;
-- 🌱 I’m currently learning ReactJS; 
-- 😎 Love for science and innovation.
-- 💓 Passionate with problem solving and automate boring stuffs.
-- 💬 Ask me about Web Dev, I am happy to help;
-- ⚡️ Hobbies: Coding Gaming and Anime;
+- 👨🏽‍💻 I’m currently working on MERN Stack
+- 🌱 I’m currently learning ReactJS
+- 😎 Love for science and innovation
+- 💓 Passionate with problem solving and automate boring stuffs
+- 💬 Ask me about Web Dev, I am happy to help
+- ⚡️ Hobbies: Coding Gaming and Anime
 
 
 **Languages and Tools:** 
@@ -56,7 +56,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
