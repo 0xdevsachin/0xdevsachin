@@ -76,11 +76,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>
 <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevsachin&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevsachin&theme=nightowl" />
     </p>
 <p align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0xdevsachin&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevsachin&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-    </p>
+  <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=0xdevsachin&theme=algolia&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevsachin&layout=compact&theme=nightowl" />
+</p>
+
+![Sachin's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=0xdevsachin&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=nightowl&area=true)
+
+<br/>
     
 <p align="center">
   <a href="https://github.com/0xdevsachin">
