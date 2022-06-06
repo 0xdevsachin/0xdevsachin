@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your title -->
-## Hi, I'm Sachin Verma <img src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/cool.gif" width="30px"> , a Developer 🚀 from India.
+## Hi, I'm Sachin Verma <img src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/cool.gif" width="30px" height="30px"> , a Developer 🚀 from India.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
