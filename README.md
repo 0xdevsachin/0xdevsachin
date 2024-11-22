@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Header Image" src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/top_image.png" />
+  <img alt="Header Image" src="./img/top_image.png" />
 </p>
 
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Your title -->
-## Hi, I'm Sachin Verma <img src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/cool.gif" width="30px" height="30px"> , a Developer 🚀 from India.
+## Hi, I'm Sachin Verma <img src="./img/cool.gif" width="30px" height="30px"> , a Developer 🚀 from India.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 **Talking about Personal Stuffs:**
 
 <p align="center">
-<img width="80%" align="center" alt="Github" src="https://raw.githubusercontent.com/0xdevsachin/0xdevsachin/main/img/git-header.svg" />
+<img width="80%" align="center" alt="Github" src="./img/git-header.svg" />
 </p>
 
 - 👨🏽‍💻 I’m currently working on MERN Stack
@@ -83,7 +83,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevsachin&layout=compact&theme=algolia" />
 </p>
 
-![Sachin's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=0xdevsachin&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&area=true)
+[![Sachin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdevsachin&bg_color=080205&color=e5d2e3&line=ffffff&point=6a6262&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
     
