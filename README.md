@@ -46,15 +46,13 @@ You can use the website to generate badges: https://shields.io/
 - ⚡️ Hobbies: Coding Gaming and Anime
 
 
-**Languages and Tools:** 
+<!-- **Languages and Tools:** 
 
-<!-- Your github readme stats
+ Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-  <!-- Your languages and tools. Be careful with the alignment. 
+
+<p>Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -75,13 +73,19 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
 </p>
+
+
 <p align="center">
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=0xdevsachin&theme=algolia" />
     </p>
+
+
 <p align="center">
   <img width="53.5%" src="https://github-readme-stats.vercel.app/api?username=0xdevsachin&theme=algolia&show_icons=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xdevsachin&layout=compact&theme=algolia" />
 </p>
+
+    -->
 
 [![Sachin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xdevsachin&bg_color=080205&color=e5d2e3&line=ffffff&point=6a6262&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
